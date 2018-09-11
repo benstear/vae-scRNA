@@ -1,0 +1,6 @@
+{
+    "workdir": "/scr1/users/stearb/",
+    "input_dir": "/scr1/users/stearb/data.csv",
+    "output_dir": "/scr1/users/stearb/results/sept_11",
+    "train_threads": 1
+}
