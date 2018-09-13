@@ -1,0 +1,18 @@
+
+
+tSNE:
+
+PCA/PCA kernel: normal PCA is linear
+
+LDA: supevised
+
+
+
+
+
+
+
+
+
+
+
